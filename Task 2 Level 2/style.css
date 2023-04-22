@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(12, 12, 12);
+}
+.h5{
+    color: rgb(69, 239, 13) ;
+    margin-left: 290px;
+}
+.h3{
+    margin-left: 130px;
+    color: rgb(69, 239, 13);
+}
+.name{
+margin-left: 130px;
+font-size: 40px;
+color: rgb(69, 239, 13);
+}
+.image{
+    width: 250px;
+    height: 250px;
+    border: solid red;
+    margin-left: 200px;
+    box-shadow: 5px 5px 2px rgb(15, 237, 70);
+}
+.para{
+     font-size: 20px;
+     margin-left:100px;
+     color: rgb(241, 241, 15);
+}
+.whole{
+    border: solid rgb(238, 12, 12);
+}
+.bold{
+    color:aqua;
+}
+.image2{
+    width: 250px;
+    height: 250px;
+    margin-left: 10px;
+    border: solid yellow;
+    box-shadow: 5px 5px 2px rgb(15, 237, 70);
+}
+.image3,
+.image,
+.image2{
+    vertical-align: top;
+    vertical-align: bottom;
+}
+
+.image3{
+    width: 250px;
+    height: 250px;
+    margin-left: 10px;
+    border: solid yellow;
+    box-shadow: 5px 5px 2px rgb(15, 237, 70);
+}
+.cona{
+    /* display: grid; */
+    /* grid-template-columns: repeat(3 1fr); */
+}
